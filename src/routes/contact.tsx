@@ -11,7 +11,7 @@ export default function ContactPage() {
 
         <ArticleMedia>
           <img
-            alt="Lorem Picsum"
+            alt="Agile-Workers"
             className="mx-auto lg:aspect-[5/7] lg:w-full"
             width="420"
             height="640"

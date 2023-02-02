@@ -37,7 +37,7 @@ export function NewsletterForm({
         </label>
         <input
           required
-          placeholder="Your best email&hellip;"
+          placeholder="Informe o seu e-mail"
           id="email"
           name="email"
           type="email"
@@ -48,7 +48,7 @@ export function NewsletterForm({
         />
         {success && (
           <div className="mt-2 text-xs italic text-gray-500">
-            Email submitted successfully!
+            E-mail enviado com sucesso.
           </div>
         )}
       </div>

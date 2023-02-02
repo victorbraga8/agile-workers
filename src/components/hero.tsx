@@ -65,7 +65,7 @@ export function Hero({
                 ref={(el: ScrollRevealRefElement) =>
                   scrollRevealRef.current.push(el)
                 }
-                className="prose prose-xl px-16 text-gray-500 md:px-0"
+                className="prose prose-xl px-16 text-gray-500 md:px-0 whitespace-pre"
               >
                 {content}
               </p>
@@ -78,7 +78,7 @@ export function Hero({
             >
               <NewsletterForm
                 className="m-0 mt-8 max-w-md md:flex"
-                submitText="Get early access"
+                submitText="Enviar"
                 onSubmit={onNewsletterSubmit}
               />
             </div>

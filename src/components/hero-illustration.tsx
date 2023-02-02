@@ -119,9 +119,9 @@ export function HeroIllustration() {
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
               id="ball-1-a"
             >
-              <stop stopColor="#eef2ff" offset="0%" />
-              <stop stopColor="#c7d2fe" offset="34.827%" />
-              <stop stopColor="#818cf8" offset="100%" />
+              <stop stopColor="#d2e296" offset="0%" />
+              <stop stopColor="#abca3b" offset="34.827%" />
+              <stop stopColor="#8aa732" offset="100%" />
             </radialGradient>
           </defs>
           <circle cx="200" cy="200" r="200" fill="#ffffff" fillRule="evenodd" />
@@ -154,9 +154,9 @@ export function HeroIllustration() {
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
               id="ball-2-a"
             >
-              <stop stopColor="#eef2ff" offset="0%" />
-              <stop stopColor="#c7d2fe" offset="34.827%" />
-              <stop stopColor="#818cf8" offset="100%" />
+              <stop stopColor="#80cde3" offset="0%" />
+              <stop stopColor="#16abd0" offset="34.827%" />
+              <stop stopColor="#135ba6" offset="100%" />
             </radialGradient>
           </defs>
           <circle cx="100" cy="100" r="100" fill="#ffffff" fillRule="evenodd" />
@@ -350,7 +350,10 @@ export function HeroIllustration() {
               />
             </filter>
           </defs>
-          <g fill="none" fillRule="evenodd">
+          {/* <g fill="none" fillRule='evenodd'>
+
+          </g> */}
+          {/* <g fill="none" fillRule="evenodd">
             <rect
               width="800"
               height="450"
@@ -362,7 +365,7 @@ export function HeroIllustration() {
             <path fill="#e2e8f0" d="M0 32h800v1H0z" />
             <circle fill="url(#browser-a)" cx="24" cy="16" r="4" />
             <circle fill="url(#browser-b)" cx="40" cy="16" r="4" />
-            <circle fill="url(#browser-c)" cx="56" cy="16" r="4" />
+            <circle fill="url(#browser-c)" cx="56" cy="16" r="4" />            
             <g
               filter="url(#browser-d)"
               transform="translate(505 196)"
@@ -427,7 +430,7 @@ export function HeroIllustration() {
                 fill="url(#browser-n)"
               />
             </g>
-          </g>
+          </g> */}
         </svg>
       </div>
       <div
@@ -451,9 +454,9 @@ export function HeroIllustration() {
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
               id="ball-3-a"
             >
-              <stop stopColor="#eef2ff" offset="0%" />
-              <stop stopColor="#c7d2fe" offset="34.827%" />
-              <stop stopColor="#818cf8" offset="100%" />
+              <stop stopColor="#80cde3" offset="0%" />
+              <stop stopColor="#16abd0" offset="34.827%" />
+              <stop stopColor="#135ba6" offset="100%" />
             </radialGradient>
           </defs>
           <circle cx="40" cy="40" r="40" fill="#ffffff" fillRule="evenodd" />
@@ -486,9 +489,9 @@ export function HeroIllustration() {
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
               id="ball-4-a"
             >
-              <stop stopColor="#eef2ff" offset="0%" />
-              <stop stopColor="#c7d2fe" offset="34.827%" />
-              <stop stopColor="#818cf8" offset="100%" />
+              <stop stopColor="#d2e296" offset="0%" />
+              <stop stopColor="#abca3b" offset="34.827%" />
+              <stop stopColor="#8aa732" offset="100%" />
             </radialGradient>
             <filter
               x="-500%"
@@ -552,9 +555,9 @@ export function HeroIllustration() {
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
               id="ball-5-a"
             >
-              <stop stopColor="#eef2ff" offset="0%" />
-              <stop stopColor="#c7d2fe" offset="34.827%" />
-              <stop stopColor="#818cf8" offset="100%" />
+              <stop stopColor="#d2e296" offset="0%" />
+              <stop stopColor="#abca3b" offset="34.827%" />
+              <stop stopColor="#8aa732" offset="100%" />
             </radialGradient>
             <filter
               x="-500%"
