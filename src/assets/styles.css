@@ -1354,12 +1354,12 @@ select {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 .from-primary-600 {
-  --tw-gradient-from: #135ba6;
+  --tw-gradient-from: #4f46e5;
   --tw-gradient-to: rgb(79 70 229 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 .from-secondary-500 {
-  --tw-gradient-from: #1366ac;
+  --tw-gradient-from: #f43f5e;
   --tw-gradient-to: rgb(244 63 94 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
@@ -1367,7 +1367,7 @@ select {
   --tw-gradient-to: #818cf8;
 }
 .to-secondary-400 {
-  --tw-gradient-to: #158fc1;
+  --tw-gradient-to: #fb7185;
 }
 .object-scale-down {
   -o-object-fit: scale-down;
