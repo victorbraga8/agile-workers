@@ -1359,7 +1359,7 @@ select {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 .from-secondary-500 {
-  --tw-gradient-from: #f43f5e;
+  --tw-gradient-from: #1366ac;
   --tw-gradient-to: rgb(244 63 94 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
@@ -1367,7 +1367,7 @@ select {
   --tw-gradient-to: #818cf8;
 }
 .to-secondary-400 {
-  --tw-gradient-to: #fb7185;
+  --tw-gradient-to: #5ec2dd;
 }
 .object-scale-down {
   -o-object-fit: scale-down;
